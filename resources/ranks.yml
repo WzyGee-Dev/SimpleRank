@@ -1,0 +1,17 @@
+ranks:
+  vip:
+    prefix: "§evip"
+    colorChat: "§c"
+    permissions: []
+  admin:
+    prefix: "§cadmin"
+    colorChat: "§a"
+    permissions:
+      - setrank.permission
+      - remove.permission
+  owner:
+    prefix: "§fOWNER"
+    colorChat: "§a"
+    permissions:
+      - setrank.permission
+      - remove.permission

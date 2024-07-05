@@ -1,0 +1,17 @@
+name: Rank
+api: 5.0.0
+main: Rank\Loader
+version: 1
+author: WzyGee
+hotel: trivago xd
+commands:
+  setrank:
+    permission: "setrank.permission"
+  removerank:
+    permission: "remove.permission"
+
+permissions:
+  setrank.permission:
+    default: true
+  remove.permission:
+    default: true
